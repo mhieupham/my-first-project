@@ -1,6 +1,6 @@
-function cat(){
-alert('meww');
+function mouse(){
+alert('cheese');
 }
 document.addEventListener('DOMContentLoaded',function(){
-    cat();
+    mouse();
 })
