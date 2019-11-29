@@ -1,6 +1,6 @@
-function cat(speak){
-    alert(speak)
+function cat(eat){
+    alert(eat)
 }
 document.addEventListener('DOMContentLoaded',function(){
-    cat('mew');
+    cat('fish');
 })
